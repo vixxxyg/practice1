@@ -1,0 +1,25 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 5px;
+    margin: 5px 3px 12px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid steelblue;
+    background-color: steelblue;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.container{
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+}
